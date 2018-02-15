@@ -5,16 +5,16 @@ html {
 
 .animal-container {
 	width: 300px;
-	padding:1.5em;
+	padding: 1.5em;
 }
 
 .animal-information {
-	padding:1.5em;
+	padding: 1.5em;
 }
 
 .border {
-	border: 1px solid #DCDEDD;
-	border-radius:5px;
+	border: 1px solid #dcdedd;
+	border-radius: 5px;
 }
 
 .animal-name {
@@ -24,8 +24,8 @@ html {
 
 .animal-image {
 	width:100%;
-	margin-top:1.5em;
-	margin-bottom:1.5em;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
 }
 
 .interesting-fact {
@@ -34,8 +34,8 @@ html {
 }
 
 .animal-list-items {
-	margin-top:1.5em;
-	margin-bottom:1.5em;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
 	list-style-type: none;
 }
 
