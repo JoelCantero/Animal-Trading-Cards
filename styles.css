@@ -1,0 +1,49 @@
+html {
+	font-family: Helvetica;
+	text-align: justify;
+}
+
+.animal-container {
+	width: 300px;
+	padding:1.5em;
+}
+
+.animal-information {
+	padding:1.5em;
+}
+
+.border {
+	border: 1px solid #DCDEDD;
+	border-radius:5px;
+}
+
+.animal-name {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.animal-image {
+	width:100%;
+	margin-top:1.5em;
+	margin-bottom:1.5em;
+}
+
+.interesting-fact {
+	margin-top: 0;
+	font-style: italic;
+}
+
+.animal-list-items {
+	margin-top:1.5em;
+	margin-bottom:1.5em;
+	list-style-type: none;
+}
+
+.animal-description {
+	margin-bottom: 0;
+}
+
+
+
+
+
